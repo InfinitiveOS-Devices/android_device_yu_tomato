@@ -167,7 +167,4 @@
          Used to decide if we show pulse settings -->
     <!--<bool name="config_ledCanPulse">false</bool>-->
 
-    <!-- HW Keys Overlay -->
-    <bool name="config_hwKeysPref">true</bool>
-
 </resources>
